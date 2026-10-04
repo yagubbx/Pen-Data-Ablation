@@ -1,0 +1,11 @@
+{
+  "variant": "low",
+  "train_images": 16,
+  "val_images": 16,
+  "epochs": 30,
+  "elapsed_seconds": 240.16,
+  "weights_sha256": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893",
+  "base_sha256": "f59b3d833e2ff32e194b5bb8e08d211dc7c5bdf144b90d2c8412c47ccfc83b36",
+  "config_sha256": "9ffb9cd787888668f99bceb996f980b565da719471fb8fe906ec58092d37f4f8",
+  "splits_sha256": "a3c6efbc4e00f17159b0ced287679fcc6ff49b30a62397eb479279eaa0ce52df"
+}
