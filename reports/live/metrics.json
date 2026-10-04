@@ -1,0 +1,66 @@
+{
+  "source": "webcam",
+  "live_camera": true,
+  "novel_condition_confirmed": true,
+  "condition_note": "My room, normal light, plain background",
+  "frames": 308,
+  "label_type": "presence",
+  "count_unit": "frames with/without any pen",
+  "confidence": 0.45,
+  "smoothing": false,
+  "imgsz": 416,
+  "nms_iou": 0.45,
+  "clip_sha256": "f276666bfbbd2a128a4fd0129283af3949370e2ac7a4681b3929a26609cca4d1",
+  "labels_sha256": "ea420a7dd18e4cfbd8ebabff480c966296748a835b4f7b53b8bb1c594116e75f",
+  "weights": {
+    "low": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893",
+    "high": "aee6578f0c7eef747e916762d3ae1c2cad702a0bc36e7a106fdb18f7268c5054"
+  },
+  "results": {
+    "low": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 158,
+      "tn": 150,
+      "precision": null,
+      "recall": 0.0
+    },
+    "high": {
+      "tp": 78,
+      "fp": 0,
+      "fn": 80,
+      "tn": 150,
+      "precision": 1.0,
+      "recall": 0.4936708860759494
+    }
+  },
+  "by_condition": {
+    "My room, normal light, plain background": {
+      "low": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 158,
+        "tn": 150,
+        "precision": null,
+        "recall": 0.0
+      },
+      "high": {
+        "tp": 78,
+        "fp": 0,
+        "fn": 80,
+        "tn": 150,
+        "precision": 1.0,
+        "recall": 0.4936708860759494
+      }
+    }
+  },
+  "inference_ms_mean": {
+    "low": 50.354774036692675,
+    "high": 48.29772013729414
+  },
+  "coverage": {
+    "positive_frames": 158,
+    "negative_frames": 150
+  },
+  "coverage_complete": true
+}

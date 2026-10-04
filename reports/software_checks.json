@@ -1,0 +1,26 @@
+{
+  "unit_tests_passed": 10,
+  "identical_hyperparameters": true,
+  "trained_weight_evidence": {
+    "low": {
+      "layer": "model.12.cv1.conv.weight",
+      "max_change_from_base": 0.009979248046875,
+      "classes": {
+        "0": "pen"
+      },
+      "sha256": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893"
+    },
+    "high": {
+      "layer": "model.12.cv1.conv.weight",
+      "max_change_from_base": 0.024066925048828125,
+      "classes": {
+        "0": "pen"
+      },
+      "sha256": "aee6578f0c7eef747e916762d3ae1c2cad702a0bc36e7a106fdb18f7268c5054"
+    }
+  },
+  "recorder_integration": "Mocked camera and predictions: 21 labeled frames, 10 positive and 11 negative. Frame alignment and replay counts passed.",
+  "real_webcam_test": "Completed one session. 308 labeled frames checked; all webcam media removed for privacy. See LIVE_RESULTS.md.",
+  "checkpoint_metadata": "Portable relative paths; model tensors unchanged.",
+  "fixed_clip_check": "Both trained models evaluated on all 29 identical decoded frames; per-frame counts and hashes saved."
+}
