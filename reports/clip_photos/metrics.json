@@ -1,0 +1,57 @@
+{
+  "source": "held-out photo slideshow; NOT a webcam test",
+  "live_camera": false,
+  "novel_condition_confirmed": false,
+  "condition_note": null,
+  "frames": 29,
+  "label_type": "boxes",
+  "count_unit": "objects at IoU >= 0.5",
+  "confidence": 0.45,
+  "smoothing": false,
+  "imgsz": 416,
+  "nms_iou": 0.45,
+  "clip_sha256": "0c4c4dab39e24363f7b0951992bfbdd279d3f9ae509be129f18234a08cd741a1",
+  "labels_sha256": "053d6eb34d231afa2389e4a04f90cc3d9473b0b683f5c869fab53e0dbb84c962",
+  "weights": {
+    "low": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893",
+    "high": "aee6578f0c7eef747e916762d3ae1c2cad702a0bc36e7a106fdb18f7268c5054"
+  },
+  "results": {
+    "low": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 49,
+      "precision": null,
+      "recall": 0.0
+    },
+    "high": {
+      "tp": 23,
+      "fp": 3,
+      "fn": 26,
+      "precision": 0.8846153846153846,
+      "recall": 0.46938775510204084
+    }
+  },
+  "by_condition": {
+    "held-out public photos": {
+      "low": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 49,
+        "precision": null,
+        "recall": 0.0
+      },
+      "high": {
+        "tp": 23,
+        "fp": 3,
+        "fn": 26,
+        "precision": 0.8846153846153846,
+        "recall": 0.46938775510204084
+      }
+    }
+  },
+  "inference_ms_mean": {
+    "low": 74.96326550006353,
+    "high": 75.16506549516886
+  }
+}

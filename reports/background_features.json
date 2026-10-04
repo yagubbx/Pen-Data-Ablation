@@ -1,0 +1,570 @@
+{
+  "low": [
+    {
+      "file": "pen_3.jpg",
+      "mean_brightness": 180.10866280640153,
+      "mean_saturation": 6.1189929547347335,
+      "background_fraction": 0.90386962890625
+    },
+    {
+      "file": "pen_6.jpg",
+      "mean_brightness": 249.44332359644596,
+      "mean_saturation": 2.2350584822643746,
+      "background_fraction": 0.7042207717895508
+    },
+    {
+      "file": "pen_19.jpg",
+      "mean_brightness": 220.89323050181946,
+      "mean_saturation": 0.8846724980930111,
+      "background_fraction": 0.9147259333821376
+    },
+    {
+      "file": "pen_23.jpg",
+      "mean_brightness": 190.0468110721132,
+      "mean_saturation": 19.26143003991369,
+      "background_fraction": 0.6865374247233073
+    },
+    {
+      "file": "pen_27.jpg",
+      "mean_brightness": 207.37303514297503,
+      "mean_saturation": 20.319494408930783,
+      "background_fraction": 0.6671152952372521
+    },
+    {
+      "file": "pen_28.jpg",
+      "mean_brightness": 205.70210559380936,
+      "mean_saturation": 5.537220596227582,
+      "background_fraction": 0.574370532441349
+    },
+    {
+      "file": "pen_34.jpg",
+      "mean_brightness": 223.33342051029908,
+      "mean_saturation": 4.224341203669802,
+      "background_fraction": 0.1366772854136164
+    },
+    {
+      "file": "pen_37.jpg",
+      "mean_brightness": 254.9975147119064,
+      "mean_saturation": 0.020569193417858105,
+      "background_fraction": 0.3818092346191406
+    },
+    {
+      "file": "pen_58.jpg",
+      "mean_brightness": 155.37156220091373,
+      "mean_saturation": 14.846922007331564,
+      "background_fraction": 0.4929084777832031
+    },
+    {
+      "file": "pen_59.jpg",
+      "mean_brightness": 248.18212490422675,
+      "mean_saturation": 5.443471618152923,
+      "background_fraction": 0.4194650650024414
+    },
+    {
+      "file": "pen_63.jpg",
+      "mean_brightness": 235.9158972814758,
+      "mean_saturation": 6.730217793813731,
+      "background_fraction": 0.7828116581357759
+    },
+    {
+      "file": "pen_64.jpg",
+      "mean_brightness": 254.99624526025863,
+      "mean_saturation": 0.0010868983461853573,
+      "background_fraction": 0.9265632629394531
+    },
+    {
+      "file": "pen_75.jpg",
+      "mean_brightness": 213.19445730894225,
+      "mean_saturation": 23.673443151784216,
+      "background_fraction": 0.6369883219401041
+    },
+    {
+      "file": "pen_79.jpg",
+      "mean_brightness": 242.68549459754698,
+      "mean_saturation": 9.051416693551582,
+      "background_fraction": 0.8986358642578125
+    },
+    {
+      "file": "pen_93.jpg",
+      "mean_brightness": 254.9716485330206,
+      "mean_saturation": 0.014865246378700023,
+      "background_fraction": 0.35131072998046875
+    },
+    {
+      "file": "pen_98.jpg",
+      "mean_brightness": 254.5351353469821,
+      "mean_saturation": 0.014335113037868214,
+      "background_fraction": 0.4549560546875
+    }
+  ],
+  "high": [
+    {
+      "file": "pen_1.jpg",
+      "mean_brightness": 165.502073288741,
+      "mean_saturation": 74.47154055751732,
+      "background_fraction": 0.5992024739583334
+    },
+    {
+      "file": "pen_2.jpg",
+      "mean_brightness": 168.3932425902062,
+      "mean_saturation": 73.81506322487114,
+      "background_fraction": 0.7101024890190337
+    },
+    {
+      "file": "pen_3.jpg",
+      "mean_brightness": 180.10866280640153,
+      "mean_saturation": 6.1189929547347335,
+      "background_fraction": 0.90386962890625
+    },
+    {
+      "file": "pen_4.jpg",
+      "mean_brightness": 223.0708974156594,
+      "mean_saturation": 0.0,
+      "background_fraction": 0.9021809895833334
+    },
+    {
+      "file": "pen_5.jpg",
+      "mean_brightness": 152.18999765662176,
+      "mean_saturation": 101.47864003553885,
+      "background_fraction": 0.8844718933105469
+    },
+    {
+      "file": "pen_6.jpg",
+      "mean_brightness": 249.44332359644596,
+      "mean_saturation": 2.2350584822643746,
+      "background_fraction": 0.7042207717895508
+    },
+    {
+      "file": "pen_7.jpg",
+      "mean_brightness": 75.68396272411685,
+      "mean_saturation": 80.39329177122202,
+      "background_fraction": 0.8836511948529412
+    },
+    {
+      "file": "pen_8.jpg",
+      "mean_brightness": 121.10210570585875,
+      "mean_saturation": 26.749408536526893,
+      "background_fraction": 0.9282035827636719
+    },
+    {
+      "file": "pen_9.jpg",
+      "mean_brightness": 132.18170324565986,
+      "mean_saturation": 128.34206874528246,
+      "background_fraction": 0.985026994875549
+    },
+    {
+      "file": "pen_11.jpg",
+      "mean_brightness": 160.6750462098194,
+      "mean_saturation": 41.96997215218271,
+      "background_fraction": 0.5234962214052288
+    },
+    {
+      "file": "pen_12.jpg",
+      "mean_brightness": 132.0056396484375,
+      "mean_saturation": 56.10244140625,
+      "background_fraction": 0.052083333333333336
+    },
+    {
+      "file": "pen_14.jpg",
+      "mean_brightness": 174.31748600744234,
+      "mean_saturation": 13.091262449341052,
+      "background_fraction": 0.5829594930013021
+    },
+    {
+      "file": "pen_15.jpg",
+      "mean_brightness": 110.98640724624238,
+      "mean_saturation": 45.29602299536624,
+      "background_fraction": 0.9459037780761719
+    },
+    {
+      "file": "pen_17.jpg",
+      "mean_brightness": 154.78201732291143,
+      "mean_saturation": 165.64294187701245,
+      "background_fraction": 0.41080379486083984
+    },
+    {
+      "file": "pen_18.jpg",
+      "mean_brightness": 132.53667106470857,
+      "mean_saturation": 164.31345370582835,
+      "background_fraction": 0.17732747395833334
+    },
+    {
+      "file": "pen_19.jpg",
+      "mean_brightness": 220.89323050181946,
+      "mean_saturation": 0.8846724980930111,
+      "background_fraction": 0.9147259333821376
+    },
+    {
+      "file": "pen_20.jpg",
+      "mean_brightness": 68.86958999468455,
+      "mean_saturation": 62.46749141350125,
+      "background_fraction": 0.4975789388020833
+    },
+    {
+      "file": "pen_22.jpg",
+      "mean_brightness": 129.94875100636554,
+      "mean_saturation": 37.80175469805366,
+      "background_fraction": 0.6485980797046285
+    },
+    {
+      "file": "pen_23.jpg",
+      "mean_brightness": 190.0468110721132,
+      "mean_saturation": 19.26143003991369,
+      "background_fraction": 0.6865374247233073
+    },
+    {
+      "file": "pen_24.jpg",
+      "mean_brightness": 195.07466777081115,
+      "mean_saturation": 17.420659331992585,
+      "background_fraction": 0.3869476318359375
+    },
+    {
+      "file": "pen_25.jpg",
+      "mean_brightness": 153.56877780483603,
+      "mean_saturation": 8.655576410213767,
+      "background_fraction": 0.4226607687982005
+    },
+    {
+      "file": "pen_26.jpg",
+      "mean_brightness": 161.7774642093443,
+      "mean_saturation": 8.025441662065056,
+      "background_fraction": 0.8338885729825949
+    },
+    {
+      "file": "pen_27.jpg",
+      "mean_brightness": 207.37303514297503,
+      "mean_saturation": 20.319494408930783,
+      "background_fraction": 0.6671152952372521
+    },
+    {
+      "file": "pen_28.jpg",
+      "mean_brightness": 205.70210559380936,
+      "mean_saturation": 5.537220596227582,
+      "background_fraction": 0.574370532441349
+    },
+    {
+      "file": "pen_29.jpg",
+      "mean_brightness": 159.29511613650297,
+      "mean_saturation": 168.10869604704493,
+      "background_fraction": 0.541015625
+    },
+    {
+      "file": "pen_30.jpg",
+      "mean_brightness": 54.16784588055956,
+      "mean_saturation": 74.6245414907606,
+      "background_fraction": 0.9553883870442709
+    },
+    {
+      "file": "pen_32.jpg",
+      "mean_brightness": 171.49256896185477,
+      "mean_saturation": 12.360407246684671,
+      "background_fraction": 0.3352152506510417
+    },
+    {
+      "file": "pen_34.jpg",
+      "mean_brightness": 223.33342051029908,
+      "mean_saturation": 4.224341203669802,
+      "background_fraction": 0.1366772854136164
+    },
+    {
+      "file": "pen_35.jpg",
+      "mean_brightness": 147.29830023841123,
+      "mean_saturation": 49.042304349041494,
+      "background_fraction": 0.9552294413248698
+    },
+    {
+      "file": "pen_36.jpg",
+      "mean_brightness": 215.467431732747,
+      "mean_saturation": 1.2146364990424854,
+      "background_fraction": 0.4481951395670573
+    },
+    {
+      "file": "pen_37.jpg",
+      "mean_brightness": 254.9975147119064,
+      "mean_saturation": 0.020569193417858105,
+      "background_fraction": 0.3818092346191406
+    },
+    {
+      "file": "pen_38.jpg",
+      "mean_brightness": 152.6934355411205,
+      "mean_saturation": 55.22264357213624,
+      "background_fraction": 0.809535026550293
+    },
+    {
+      "file": "pen_39.jpg",
+      "mean_brightness": 166.80045794554616,
+      "mean_saturation": 55.231410481829364,
+      "background_fraction": 0.8022607741013071
+    },
+    {
+      "file": "pen_40.jpg",
+      "mean_brightness": 138.29531828019228,
+      "mean_saturation": 41.99328082140071,
+      "background_fraction": 0.9090638726207906
+    },
+    {
+      "file": "pen_41.jpg",
+      "mean_brightness": 206.76413001631622,
+      "mean_saturation": 15.66866605446179,
+      "background_fraction": 0.5722208023071289
+    },
+    {
+      "file": "pen_42.jpg",
+      "mean_brightness": 239.81164168379095,
+      "mean_saturation": 12.731892946209381,
+      "background_fraction": 0.7184181213378906
+    },
+    {
+      "file": "pen_45.jpg",
+      "mean_brightness": 174.8566535365645,
+      "mean_saturation": 32.318547696523375,
+      "background_fraction": 0.616247812906901
+    },
+    {
+      "file": "pen_46.jpg",
+      "mean_brightness": 200.27731948108791,
+      "mean_saturation": 30.536349986018067,
+      "background_fraction": 0.9408057284040996
+    },
+    {
+      "file": "pen_49.jpg",
+      "mean_brightness": 197.61524842501512,
+      "mean_saturation": 19.391831366490393,
+      "background_fraction": 0.6783735015556369
+    },
+    {
+      "file": "pen_53.jpg",
+      "mean_brightness": 207.49513496723063,
+      "mean_saturation": 104.97095112300124,
+      "background_fraction": 0.9087778727213541
+    },
+    {
+      "file": "pen_54.jpg",
+      "mean_brightness": 187.13760434867015,
+      "mean_saturation": 31.23468582152333,
+      "background_fraction": 0.4931640625
+    },
+    {
+      "file": "pen_55.jpg",
+      "mean_brightness": 153.51553527234122,
+      "mean_saturation": 8.082657162356867,
+      "background_fraction": 0.739724420691906
+    },
+    {
+      "file": "pen_56.jpg",
+      "mean_brightness": 164.98207822575438,
+      "mean_saturation": 28.548122538858244,
+      "background_fraction": 0.8898654513888888
+    },
+    {
+      "file": "pen_58.jpg",
+      "mean_brightness": 155.37156220091373,
+      "mean_saturation": 14.846922007331564,
+      "background_fraction": 0.4929084777832031
+    },
+    {
+      "file": "pen_59.jpg",
+      "mean_brightness": 248.18212490422675,
+      "mean_saturation": 5.443471618152923,
+      "background_fraction": 0.4194650650024414
+    },
+    {
+      "file": "pen_60.jpg",
+      "mean_brightness": 138.07894195434102,
+      "mean_saturation": 78.58440634799018,
+      "background_fraction": 0.716949462890625
+    },
+    {
+      "file": "pen_61.jpg",
+      "mean_brightness": 156.29672002382077,
+      "mean_saturation": 34.25473720147032,
+      "background_fraction": 0.9907430013020834
+    },
+    {
+      "file": "pen_62.jpg",
+      "mean_brightness": 142.29627626367002,
+      "mean_saturation": 87.4955410961853,
+      "background_fraction": 0.945068359375
+    },
+    {
+      "file": "pen_63.jpg",
+      "mean_brightness": 235.9158972814758,
+      "mean_saturation": 6.730217793813731,
+      "background_fraction": 0.7828116581357759
+    },
+    {
+      "file": "pen_64.jpg",
+      "mean_brightness": 254.99624526025863,
+      "mean_saturation": 0.0010868983461853573,
+      "background_fraction": 0.9265632629394531
+    },
+    {
+      "file": "pen_65.jpg",
+      "mean_brightness": 139.79744458354813,
+      "mean_saturation": 169.3060203255026,
+      "background_fraction": 0.3877409996345029
+    },
+    {
+      "file": "pen_67.jpg",
+      "mean_brightness": 150.25914812479584,
+      "mean_saturation": 4.349721587067663,
+      "background_fraction": 0.20308643118088468
+    },
+    {
+      "file": "pen_68.jpg",
+      "mean_brightness": 144.96157463068553,
+      "mean_saturation": 144.70026158534407,
+      "background_fraction": 0.8545633951822916
+    },
+    {
+      "file": "pen_69.jpg",
+      "mean_brightness": 58.20358965943149,
+      "mean_saturation": 31.889343306528932,
+      "background_fraction": 0.8833084106445312
+    },
+    {
+      "file": "pen_70.jpg",
+      "mean_brightness": 121.04241443862934,
+      "mean_saturation": 55.40276435116874,
+      "background_fraction": 0.724755605061849
+    },
+    {
+      "file": "pen_73.jpg",
+      "mean_brightness": 133.73814028574375,
+      "mean_saturation": 8.715763503811768,
+      "background_fraction": 0.6411590576171875
+    },
+    {
+      "file": "pen_74.jpg",
+      "mean_brightness": 111.65308880075452,
+      "mean_saturation": 95.30561534182971,
+      "background_fraction": 0.4206441243489583
+    },
+    {
+      "file": "pen_75.jpg",
+      "mean_brightness": 213.19445730894225,
+      "mean_saturation": 23.673443151784216,
+      "background_fraction": 0.6369883219401041
+    },
+    {
+      "file": "pen_77.jpg",
+      "mean_brightness": 160.39656945716845,
+      "mean_saturation": 51.393892591621345,
+      "background_fraction": 0.8396635935212299
+    },
+    {
+      "file": "pen_78.jpg",
+      "mean_brightness": 88.09580821576193,
+      "mean_saturation": 77.75567716351,
+      "background_fraction": 0.9767116021998834
+    },
+    {
+      "file": "pen_79.jpg",
+      "mean_brightness": 242.68549459754698,
+      "mean_saturation": 9.051416693551582,
+      "background_fraction": 0.8986358642578125
+    },
+    {
+      "file": "pen_81.jpg",
+      "mean_brightness": 189.80871423108258,
+      "mean_saturation": 4.724714430607053,
+      "background_fraction": 0.11471366882324219
+    },
+    {
+      "file": "pen_82.jpg",
+      "mean_brightness": 147.74018292506997,
+      "mean_saturation": 73.21088678265386,
+      "background_fraction": 0.940185546875
+    },
+    {
+      "file": "pen_83.jpg",
+      "mean_brightness": 181.69093836523413,
+      "mean_saturation": 50.84545037317925,
+      "background_fraction": 0.3380126953125
+    },
+    {
+      "file": "pen_84.jpg",
+      "mean_brightness": 172.95704177287058,
+      "mean_saturation": 131.01029674683804,
+      "background_fraction": 0.8420918782552084
+    },
+    {
+      "file": "pen_85.jpg",
+      "mean_brightness": 225.60840092333476,
+      "mean_saturation": 24.410492656010373,
+      "background_fraction": 0.643402099609375
+    },
+    {
+      "file": "pen_86.jpg",
+      "mean_brightness": 160.87637861089027,
+      "mean_saturation": 6.802856094428475,
+      "background_fraction": 0.6237411499023438
+    },
+    {
+      "file": "pen_88.jpg",
+      "mean_brightness": 130.36051867260113,
+      "mean_saturation": 104.73345815199109,
+      "background_fraction": 0.8117865231515373
+    },
+    {
+      "file": "pen_89.jpg",
+      "mean_brightness": 207.3884726423641,
+      "mean_saturation": 38.52100375512239,
+      "background_fraction": 0.9814846371644296
+    },
+    {
+      "file": "pen_90.jpg",
+      "mean_brightness": 195.446224251924,
+      "mean_saturation": 32.51832936535968,
+      "background_fraction": 0.4995126724243164
+    },
+    {
+      "file": "pen_92.jpg",
+      "mean_brightness": 163.16596240290303,
+      "mean_saturation": 241.72984666621747,
+      "background_fraction": 0.7926254272460938
+    },
+    {
+      "file": "pen_93.jpg",
+      "mean_brightness": 254.9716485330206,
+      "mean_saturation": 0.014865246378700023,
+      "background_fraction": 0.35131072998046875
+    },
+    {
+      "file": "pen_94.jpg",
+      "mean_brightness": 165.07357222828495,
+      "mean_saturation": 193.8437345630521,
+      "background_fraction": 0.8983650207519531
+    },
+    {
+      "file": "pen_95.jpg",
+      "mean_brightness": 200.81669406497082,
+      "mean_saturation": 51.10899210838598,
+      "background_fraction": 0.9520524995417888
+    },
+    {
+      "file": "pen_96.jpg",
+      "mean_brightness": 138.90338514939882,
+      "mean_saturation": 98.47852261633582,
+      "background_fraction": 0.8855340676229508
+    },
+    {
+      "file": "pen_97.jpg",
+      "mean_brightness": 160.67629512691622,
+      "mean_saturation": 36.63244152714885,
+      "background_fraction": 0.3441703651171303
+    },
+    {
+      "file": "pen_98.jpg",
+      "mean_brightness": 254.5351353469821,
+      "mean_saturation": 0.014335113037868214,
+      "background_fraction": 0.4549560546875
+    },
+    {
+      "file": "pen_99.jpg",
+      "mean_brightness": 152.40908281488242,
+      "mean_saturation": 42.23099075135502,
+      "background_fraction": 0.9140116373697916
+    }
+  ]
+}

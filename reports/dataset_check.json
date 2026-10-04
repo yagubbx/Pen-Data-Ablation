@@ -1,0 +1,11 @@
+{
+  "counts": {
+    "high": 79,
+    "val": 16,
+    "test": 29,
+    "low": 16
+  },
+  "author_groups_disjoint": true,
+  "exact_image_duplicates": 0,
+  "splits_sha256": "a3c6efbc4e00f17159b0ced287679fcc6ff49b30a62397eb479279eaa0ce52df"
+}
