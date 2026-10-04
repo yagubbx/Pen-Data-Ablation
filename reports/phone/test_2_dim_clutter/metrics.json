@@ -1,0 +1,66 @@
+{
+  "source": "recorded phone video; not live webcam inference",
+  "live_camera": false,
+  "novel_condition_confirmed": false,
+  "condition_note": "Cluttered surface, dim light",
+  "frames": 120,
+  "label_type": "presence",
+  "count_unit": "frames with/without any pen",
+  "confidence": 0.45,
+  "smoothing": false,
+  "imgsz": 416,
+  "nms_iou": 0.45,
+  "clip_sha256": "6a82e0b4a32924127c0bcb3b842688fe138055543b98ceb3d2e0495a33c2300e",
+  "labels_sha256": "0d22e1834675e79dfa9e0a093680ba77aec03b798c499119586ea7189d3d999d",
+  "weights": {
+    "low": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893",
+    "high": "aee6578f0c7eef747e916762d3ae1c2cad702a0bc36e7a106fdb18f7268c5054"
+  },
+  "results": {
+    "low": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 75,
+      "tn": 45,
+      "precision": null,
+      "recall": 0.0
+    },
+    "high": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 74,
+      "tn": 45,
+      "precision": 1.0,
+      "recall": 0.013333333333333334
+    }
+  },
+  "by_condition": {
+    "Cluttered surface, dim light": {
+      "low": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 75,
+        "tn": 45,
+        "precision": null,
+        "recall": 0.0
+      },
+      "high": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 74,
+        "tn": 45,
+        "precision": 1.0,
+        "recall": 0.013333333333333334
+      }
+    }
+  },
+  "inference_ms_mean": {
+    "low": 104.5903049952661,
+    "high": 104.08369501043732
+  },
+  "coverage": {
+    "positive_frames": 75,
+    "negative_frames": 45
+  },
+  "coverage_complete": true
+}

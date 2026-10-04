@@ -1,0 +1,1021 @@
+{
+  "source": "recorded phone video; not live webcam inference",
+  "live_camera": false,
+  "novel_condition_confirmed": false,
+  "condition_note": "Plain dark surface, room light",
+  "label_type": "presence",
+  "source_file": "videos/test_1_plain.mp4",
+  "source_sha256": "13c6adb838e36e9c0ba19ad3ade69da955fde5229235387bb89efd336eee77e5",
+  "video_sha256": "d184ee7620d9055431d4a9c133b2495d70ea4ccedd2e4daf37fe08a64e274d7e",
+  "sample_fps": 5,
+  "segments": [
+    [
+      0,
+      4,
+      false
+    ],
+    [
+      6,
+      11,
+      true
+    ],
+    [
+      14,
+      18,
+      true
+    ],
+    [
+      21,
+      33,
+      true
+    ],
+    [
+      36,
+      39,
+      false
+    ]
+  ],
+  "label_note": "Presence labels from visual review. Transition gaps excluded before prediction.",
+  "frames": [
+    {
+      "index": 0,
+      "source_frame": 0,
+      "source_seconds": 0.0,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 1,
+      "source_frame": 13,
+      "source_seconds": 0.216522,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 2,
+      "source_frame": 25,
+      "source_seconds": 0.416389,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 3,
+      "source_frame": 37,
+      "source_seconds": 0.616256,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 4,
+      "source_frame": 49,
+      "source_seconds": 0.816122,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 5,
+      "source_frame": 61,
+      "source_seconds": 1.015989,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 6,
+      "source_frame": 73,
+      "source_seconds": 1.215856,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 7,
+      "source_frame": 85,
+      "source_seconds": 1.415722,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 8,
+      "source_frame": 97,
+      "source_seconds": 1.615589,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 9,
+      "source_frame": 109,
+      "source_seconds": 1.815456,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 10,
+      "source_frame": 121,
+      "source_seconds": 2.015322,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 11,
+      "source_frame": 133,
+      "source_seconds": 2.215089,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 12,
+      "source_frame": 145,
+      "source_seconds": 2.414956,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 13,
+      "source_frame": 157,
+      "source_seconds": 2.614822,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 14,
+      "source_frame": 169,
+      "source_seconds": 2.814689,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 15,
+      "source_frame": 181,
+      "source_seconds": 3.014556,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 16,
+      "source_frame": 192,
+      "source_seconds": 3.2186,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 17,
+      "source_frame": 198,
+      "source_seconds": 3.4002,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 18,
+      "source_frame": 205,
+      "source_seconds": 3.612067,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 19,
+      "source_frame": 212,
+      "source_seconds": 3.824044,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 20,
+      "source_frame": 315,
+      "source_seconds": 6.012544,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 21,
+      "source_frame": 327,
+      "source_seconds": 6.212411,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 22,
+      "source_frame": 339,
+      "source_seconds": 6.412278,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 23,
+      "source_frame": 351,
+      "source_seconds": 6.612144,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 24,
+      "source_frame": 363,
+      "source_seconds": 6.812011,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 25,
+      "source_frame": 375,
+      "source_seconds": 7.011778,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 26,
+      "source_frame": 387,
+      "source_seconds": 7.211644,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 27,
+      "source_frame": 399,
+      "source_seconds": 7.411511,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 28,
+      "source_frame": 411,
+      "source_seconds": 7.611378,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 29,
+      "source_frame": 423,
+      "source_seconds": 7.811244,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 30,
+      "source_frame": 435,
+      "source_seconds": 8.011111,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 31,
+      "source_frame": 447,
+      "source_seconds": 8.210978,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 32,
+      "source_frame": 459,
+      "source_seconds": 8.410844,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 33,
+      "source_frame": 471,
+      "source_seconds": 8.610711,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 34,
+      "source_frame": 483,
+      "source_seconds": 8.810578,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 35,
+      "source_frame": 495,
+      "source_seconds": 9.010444,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 36,
+      "source_frame": 507,
+      "source_seconds": 9.210211,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 37,
+      "source_frame": 519,
+      "source_seconds": 9.410078,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 38,
+      "source_frame": 531,
+      "source_seconds": 9.609944,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 39,
+      "source_frame": 543,
+      "source_seconds": 9.809811,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 40,
+      "source_frame": 555,
+      "source_seconds": 10.009678,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 41,
+      "source_frame": 567,
+      "source_seconds": 10.209544,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 42,
+      "source_frame": 579,
+      "source_seconds": 10.409411,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 43,
+      "source_frame": 591,
+      "source_seconds": 10.609278,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 44,
+      "source_frame": 603,
+      "source_seconds": 10.809144,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 45,
+      "source_frame": 795,
+      "source_seconds": 14.006889,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 46,
+      "source_frame": 807,
+      "source_seconds": 14.206656,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 47,
+      "source_frame": 819,
+      "source_seconds": 14.406522,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 48,
+      "source_frame": 831,
+      "source_seconds": 14.606389,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 49,
+      "source_frame": 843,
+      "source_seconds": 14.806256,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 50,
+      "source_frame": 855,
+      "source_seconds": 15.006122,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 51,
+      "source_frame": 867,
+      "source_seconds": 15.205989,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 52,
+      "source_frame": 879,
+      "source_seconds": 15.405856,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 53,
+      "source_frame": 891,
+      "source_seconds": 15.605722,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 54,
+      "source_frame": 903,
+      "source_seconds": 15.805589,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 55,
+      "source_frame": 915,
+      "source_seconds": 16.005456,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 56,
+      "source_frame": 927,
+      "source_seconds": 16.205322,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 57,
+      "source_frame": 939,
+      "source_seconds": 16.405189,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 58,
+      "source_frame": 951,
+      "source_seconds": 16.604944,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 59,
+      "source_frame": 963,
+      "source_seconds": 16.804722,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 60,
+      "source_frame": 975,
+      "source_seconds": 17.004656,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 61,
+      "source_frame": 987,
+      "source_seconds": 17.204522,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 62,
+      "source_frame": 999,
+      "source_seconds": 17.404389,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 63,
+      "source_frame": 1011,
+      "source_seconds": 17.604256,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 64,
+      "source_frame": 1023,
+      "source_seconds": 17.804122,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 65,
+      "source_frame": 1215,
+      "source_seconds": 21.001889,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 66,
+      "source_frame": 1227,
+      "source_seconds": 21.201556,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 67,
+      "source_frame": 1239,
+      "source_seconds": 21.401522,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 68,
+      "source_frame": 1251,
+      "source_seconds": 21.601389,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 69,
+      "source_frame": 1263,
+      "source_seconds": 21.801256,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 70,
+      "source_frame": 1275,
+      "source_seconds": 22.001122,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 71,
+      "source_frame": 1287,
+      "source_seconds": 22.200989,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 72,
+      "source_frame": 1299,
+      "source_seconds": 22.400856,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 73,
+      "source_frame": 1311,
+      "source_seconds": 22.600722,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 74,
+      "source_frame": 1323,
+      "source_seconds": 22.800589,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 75,
+      "source_frame": 1335,
+      "source_seconds": 23.000456,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 76,
+      "source_frame": 1347,
+      "source_seconds": 23.200322,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 77,
+      "source_frame": 1358,
+      "source_seconds": 23.400044,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 78,
+      "source_frame": 1370,
+      "source_seconds": 23.616633,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 79,
+      "source_frame": 1380,
+      "source_seconds": 23.816444,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 80,
+      "source_frame": 1391,
+      "source_seconds": 24.016333,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 81,
+      "source_frame": 1403,
+      "source_seconds": 24.232844,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 82,
+      "source_frame": 1414,
+      "source_seconds": 24.416044,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 83,
+      "source_frame": 1426,
+      "source_seconds": 24.615911,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 84,
+      "source_frame": 1438,
+      "source_seconds": 24.815778,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 85,
+      "source_frame": 1450,
+      "source_seconds": 25.015644,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 86,
+      "source_frame": 1462,
+      "source_seconds": 25.215511,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 87,
+      "source_frame": 1474,
+      "source_seconds": 25.415378,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 88,
+      "source_frame": 1486,
+      "source_seconds": 25.615244,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 89,
+      "source_frame": 1498,
+      "source_seconds": 25.815111,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 90,
+      "source_frame": 1509,
+      "source_seconds": 26.014933,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 91,
+      "source_frame": 1521,
+      "source_seconds": 26.2148,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 92,
+      "source_frame": 1533,
+      "source_seconds": 26.414667,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 93,
+      "source_frame": 1545,
+      "source_seconds": 26.614533,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 94,
+      "source_frame": 1557,
+      "source_seconds": 26.8144,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 95,
+      "source_frame": 1569,
+      "source_seconds": 27.014267,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 96,
+      "source_frame": 1581,
+      "source_seconds": 27.214133,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 97,
+      "source_frame": 1593,
+      "source_seconds": 27.414,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 98,
+      "source_frame": 1605,
+      "source_seconds": 27.613867,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 99,
+      "source_frame": 1617,
+      "source_seconds": 27.813733,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 100,
+      "source_frame": 1629,
+      "source_seconds": 28.0136,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 101,
+      "source_frame": 1640,
+      "source_seconds": 28.213367,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 102,
+      "source_frame": 1652,
+      "source_seconds": 28.413233,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 103,
+      "source_frame": 1664,
+      "source_seconds": 28.6131,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 104,
+      "source_frame": 1676,
+      "source_seconds": 28.812967,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 105,
+      "source_frame": 1688,
+      "source_seconds": 29.012833,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 106,
+      "source_frame": 1700,
+      "source_seconds": 29.2127,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 107,
+      "source_frame": 1712,
+      "source_seconds": 29.412567,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 108,
+      "source_frame": 1724,
+      "source_seconds": 29.612433,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 109,
+      "source_frame": 1736,
+      "source_seconds": 29.8123,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 110,
+      "source_frame": 1748,
+      "source_seconds": 30.012167,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 111,
+      "source_frame": 1760,
+      "source_seconds": 30.211933,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 112,
+      "source_frame": 1772,
+      "source_seconds": 30.4118,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 113,
+      "source_frame": 1784,
+      "source_seconds": 30.611667,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 114,
+      "source_frame": 1795,
+      "source_seconds": 30.811511,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 115,
+      "source_frame": 1807,
+      "source_seconds": 31.011378,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 116,
+      "source_frame": 1819,
+      "source_seconds": 31.211244,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 117,
+      "source_frame": 1831,
+      "source_seconds": 31.411111,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 118,
+      "source_frame": 1843,
+      "source_seconds": 31.610978,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 119,
+      "source_frame": 1855,
+      "source_seconds": 31.810844,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 120,
+      "source_frame": 1867,
+      "source_seconds": 32.010711,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 121,
+      "source_frame": 1879,
+      "source_seconds": 32.210578,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 122,
+      "source_frame": 1891,
+      "source_seconds": 32.410444,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 123,
+      "source_frame": 1903,
+      "source_seconds": 32.610311,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 124,
+      "source_frame": 1915,
+      "source_seconds": 32.810178,
+      "present": true,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 125,
+      "source_frame": 2077,
+      "source_seconds": 36.005789,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 126,
+      "source_frame": 2084,
+      "source_seconds": 36.2176,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 127,
+      "source_frame": 2091,
+      "source_seconds": 36.429411,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 128,
+      "source_frame": 2097,
+      "source_seconds": 36.611233,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 129,
+      "source_frame": 2104,
+      "source_seconds": 36.823044,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 130,
+      "source_frame": 2110,
+      "source_seconds": 37.004678,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 131,
+      "source_frame": 2117,
+      "source_seconds": 37.216678,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 132,
+      "source_frame": 2124,
+      "source_seconds": 37.428489,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 133,
+      "source_frame": 2130,
+      "source_seconds": 37.610122,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 134,
+      "source_frame": 2137,
+      "source_seconds": 37.822122,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 135,
+      "source_frame": 2143,
+      "source_seconds": 38.003567,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 136,
+      "source_frame": 2150,
+      "source_seconds": 38.215567,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 137,
+      "source_frame": 2157,
+      "source_seconds": 38.427567,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 138,
+      "source_frame": 2163,
+      "source_seconds": 38.609011,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    },
+    {
+      "index": 139,
+      "source_frame": 2170,
+      "source_seconds": 38.821011,
+      "present": false,
+      "condition": "Plain dark surface, room light"
+    }
+  ]
+}

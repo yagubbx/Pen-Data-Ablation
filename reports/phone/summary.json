@@ -1,0 +1,200 @@
+{
+  "test_1_plain": {
+    "source": "recorded phone video; not live webcam inference",
+    "live_camera": false,
+    "novel_condition_confirmed": false,
+    "condition_note": "Plain dark surface, room light",
+    "frames": 140,
+    "label_type": "presence",
+    "count_unit": "frames with/without any pen",
+    "confidence": 0.45,
+    "smoothing": false,
+    "imgsz": 416,
+    "nms_iou": 0.45,
+    "clip_sha256": "d184ee7620d9055431d4a9c133b2495d70ea4ccedd2e4daf37fe08a64e274d7e",
+    "labels_sha256": "a9d763e95b9d2d17ce31b96f733c98e54709b4638981d377591547b77687024a",
+    "weights": {
+      "low": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893",
+      "high": "aee6578f0c7eef747e916762d3ae1c2cad702a0bc36e7a106fdb18f7268c5054"
+    },
+    "results": {
+      "low": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 105,
+        "tn": 35,
+        "precision": null,
+        "recall": 0.0
+      },
+      "high": {
+        "tp": 49,
+        "fp": 0,
+        "fn": 56,
+        "tn": 35,
+        "precision": 1.0,
+        "recall": 0.4666666666666667
+      }
+    },
+    "by_condition": {
+      "Plain dark surface, room light": {
+        "low": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 105,
+          "tn": 35,
+          "precision": null,
+          "recall": 0.0
+        },
+        "high": {
+          "tp": 49,
+          "fp": 0,
+          "fn": 56,
+          "tn": 35,
+          "precision": 1.0,
+          "recall": 0.4666666666666667
+        }
+      }
+    },
+    "inference_ms_mean": {
+      "low": 93.65642999598224,
+      "high": 97.16066429724118
+    },
+    "coverage": {
+      "positive_frames": 105,
+      "negative_frames": 35
+    },
+    "coverage_complete": true
+  },
+  "test_2_dim_clutter": {
+    "source": "recorded phone video; not live webcam inference",
+    "live_camera": false,
+    "novel_condition_confirmed": false,
+    "condition_note": "Cluttered surface, dim light",
+    "frames": 120,
+    "label_type": "presence",
+    "count_unit": "frames with/without any pen",
+    "confidence": 0.45,
+    "smoothing": false,
+    "imgsz": 416,
+    "nms_iou": 0.45,
+    "clip_sha256": "6a82e0b4a32924127c0bcb3b842688fe138055543b98ceb3d2e0495a33c2300e",
+    "labels_sha256": "0d22e1834675e79dfa9e0a093680ba77aec03b798c499119586ea7189d3d999d",
+    "weights": {
+      "low": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893",
+      "high": "aee6578f0c7eef747e916762d3ae1c2cad702a0bc36e7a106fdb18f7268c5054"
+    },
+    "results": {
+      "low": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 75,
+        "tn": 45,
+        "precision": null,
+        "recall": 0.0
+      },
+      "high": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 74,
+        "tn": 45,
+        "precision": 1.0,
+        "recall": 0.013333333333333334
+      }
+    },
+    "by_condition": {
+      "Cluttered surface, dim light": {
+        "low": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 75,
+          "tn": 45,
+          "precision": null,
+          "recall": 0.0
+        },
+        "high": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 74,
+          "tn": 45,
+          "precision": 1.0,
+          "recall": 0.013333333333333334
+        }
+      }
+    },
+    "inference_ms_mean": {
+      "low": 104.5903049952661,
+      "high": 104.08369501043732
+    },
+    "coverage": {
+      "positive_frames": 75,
+      "negative_frames": 45
+    },
+    "coverage_complete": true
+  },
+  "test_3_bright_clutter": {
+    "source": "recorded phone video; not live webcam inference",
+    "live_camera": false,
+    "novel_condition_confirmed": false,
+    "condition_note": "Cluttered surface, normal light",
+    "frames": 135,
+    "label_type": "presence",
+    "count_unit": "frames with/without any pen",
+    "confidence": 0.45,
+    "smoothing": false,
+    "imgsz": 416,
+    "nms_iou": 0.45,
+    "clip_sha256": "d7a526deb94ec1fa2c37f24b75a2293b85f4399de08e1ffed2596c3036d9e5b1",
+    "labels_sha256": "95e0f834e8212bf490aa181a5f620efc3e73e8e19483927de5384f87282cd520",
+    "weights": {
+      "low": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893",
+      "high": "aee6578f0c7eef747e916762d3ae1c2cad702a0bc36e7a106fdb18f7268c5054"
+    },
+    "results": {
+      "low": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 95,
+        "tn": 40,
+        "precision": null,
+        "recall": 0.0
+      },
+      "high": {
+        "tp": 28,
+        "fp": 0,
+        "fn": 67,
+        "tn": 40,
+        "precision": 1.0,
+        "recall": 0.29473684210526313
+      }
+    },
+    "by_condition": {
+      "Cluttered surface, normal light": {
+        "low": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 95,
+          "tn": 40,
+          "precision": null,
+          "recall": 0.0
+        },
+        "high": {
+          "tp": 28,
+          "fp": 0,
+          "fn": 67,
+          "tn": 40,
+          "precision": 1.0,
+          "recall": 0.29473684210526313
+        }
+      }
+    },
+    "inference_ms_mean": {
+      "low": 100.37462963136258,
+      "high": 99.70324445274417
+    },
+    "coverage": {
+      "positive_frames": 95,
+      "negative_frames": 40
+    },
+    "coverage_complete": true
+  }
+}

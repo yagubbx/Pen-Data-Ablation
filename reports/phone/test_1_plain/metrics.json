@@ -1,0 +1,66 @@
+{
+  "source": "recorded phone video; not live webcam inference",
+  "live_camera": false,
+  "novel_condition_confirmed": false,
+  "condition_note": "Plain dark surface, room light",
+  "frames": 140,
+  "label_type": "presence",
+  "count_unit": "frames with/without any pen",
+  "confidence": 0.45,
+  "smoothing": false,
+  "imgsz": 416,
+  "nms_iou": 0.45,
+  "clip_sha256": "d184ee7620d9055431d4a9c133b2495d70ea4ccedd2e4daf37fe08a64e274d7e",
+  "labels_sha256": "a9d763e95b9d2d17ce31b96f733c98e54709b4638981d377591547b77687024a",
+  "weights": {
+    "low": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893",
+    "high": "aee6578f0c7eef747e916762d3ae1c2cad702a0bc36e7a106fdb18f7268c5054"
+  },
+  "results": {
+    "low": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 105,
+      "tn": 35,
+      "precision": null,
+      "recall": 0.0
+    },
+    "high": {
+      "tp": 49,
+      "fp": 0,
+      "fn": 56,
+      "tn": 35,
+      "precision": 1.0,
+      "recall": 0.4666666666666667
+    }
+  },
+  "by_condition": {
+    "Plain dark surface, room light": {
+      "low": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 105,
+        "tn": 35,
+        "precision": null,
+        "recall": 0.0
+      },
+      "high": {
+        "tp": 49,
+        "fp": 0,
+        "fn": 56,
+        "tn": 35,
+        "precision": 1.0,
+        "recall": 0.4666666666666667
+      }
+    }
+  },
+  "inference_ms_mean": {
+    "low": 93.65642999598224,
+    "high": 97.16066429724118
+  },
+  "coverage": {
+    "positive_frames": 105,
+    "negative_frames": 35
+  },
+  "coverage_complete": true
+}

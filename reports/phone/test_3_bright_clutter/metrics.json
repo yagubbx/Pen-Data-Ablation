@@ -1,0 +1,66 @@
+{
+  "source": "recorded phone video; not live webcam inference",
+  "live_camera": false,
+  "novel_condition_confirmed": false,
+  "condition_note": "Cluttered surface, normal light",
+  "frames": 135,
+  "label_type": "presence",
+  "count_unit": "frames with/without any pen",
+  "confidence": 0.45,
+  "smoothing": false,
+  "imgsz": 416,
+  "nms_iou": 0.45,
+  "clip_sha256": "d7a526deb94ec1fa2c37f24b75a2293b85f4399de08e1ffed2596c3036d9e5b1",
+  "labels_sha256": "95e0f834e8212bf490aa181a5f620efc3e73e8e19483927de5384f87282cd520",
+  "weights": {
+    "low": "a818865f78ef941a6be7ce0a545df47fa403673c761b7b7c3d712189f96c2893",
+    "high": "aee6578f0c7eef747e916762d3ae1c2cad702a0bc36e7a106fdb18f7268c5054"
+  },
+  "results": {
+    "low": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 95,
+      "tn": 40,
+      "precision": null,
+      "recall": 0.0
+    },
+    "high": {
+      "tp": 28,
+      "fp": 0,
+      "fn": 67,
+      "tn": 40,
+      "precision": 1.0,
+      "recall": 0.29473684210526313
+    }
+  },
+  "by_condition": {
+    "Cluttered surface, normal light": {
+      "low": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 95,
+        "tn": 40,
+        "precision": null,
+        "recall": 0.0
+      },
+      "high": {
+        "tp": 28,
+        "fp": 0,
+        "fn": 67,
+        "tn": 40,
+        "precision": 1.0,
+        "recall": 0.29473684210526313
+      }
+    }
+  },
+  "inference_ms_mean": {
+    "low": 100.37462963136258,
+    "high": 99.70324445274417
+  },
+  "coverage": {
+    "positive_frames": 95,
+    "negative_frames": 40
+  },
+  "coverage_complete": true
+}

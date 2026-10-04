@@ -1,0 +1,102 @@
+{
+  "sample_fps": 5,
+  "note": "Times in seconds, selected by visual review before prediction. End is exclusive. Transition gaps are not scored.",
+  "clips": [
+    {
+      "file": "test_1_plain.mp4",
+      "condition": "Plain dark surface, room light",
+      "segments": [
+        [
+          0,
+          4,
+          false
+        ],
+        [
+          6,
+          11,
+          true
+        ],
+        [
+          14,
+          18,
+          true
+        ],
+        [
+          21,
+          33,
+          true
+        ],
+        [
+          36,
+          39,
+          false
+        ]
+      ],
+      "source_sha256": "13c6adb838e36e9c0ba19ad3ade69da955fde5229235387bb89efd336eee77e5"
+    },
+    {
+      "file": "test_2_dim_clutter.mp4",
+      "condition": "Cluttered surface, dim light",
+      "segments": [
+        [
+          0,
+          4,
+          false
+        ],
+        [
+          8,
+          13,
+          true
+        ],
+        [
+          16,
+          19,
+          true
+        ],
+        [
+          22,
+          29,
+          true
+        ],
+        [
+          34,
+          39,
+          false
+        ]
+      ],
+      "source_sha256": "ca842e0849b213dc75d56580a3abd00af636e585782636d63d4dc5225c466a90"
+    },
+    {
+      "file": "test_3_bright_clutter.mp4",
+      "condition": "Cluttered surface, normal light",
+      "segments": [
+        [
+          0,
+          4,
+          false
+        ],
+        [
+          8,
+          13,
+          true
+        ],
+        [
+          16,
+          19,
+          true
+        ],
+        [
+          22,
+          33,
+          true
+        ],
+        [
+          37,
+          41,
+          false
+        ]
+      ],
+      "source_sha256": "f0b4a4293d4abb29cf5863eaf8565e84040896734759c5eb77a7ae062d9ad49e"
+    }
+  ]
+}

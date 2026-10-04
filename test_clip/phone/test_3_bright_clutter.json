@@ -1,0 +1,986 @@
+{
+  "source": "recorded phone video; not live webcam inference",
+  "live_camera": false,
+  "novel_condition_confirmed": false,
+  "condition_note": "Cluttered surface, normal light",
+  "label_type": "presence",
+  "source_file": "videos/test_3_bright_clutter.mp4",
+  "source_sha256": "f0b4a4293d4abb29cf5863eaf8565e84040896734759c5eb77a7ae062d9ad49e",
+  "video_sha256": "d7a526deb94ec1fa2c37f24b75a2293b85f4399de08e1ffed2596c3036d9e5b1",
+  "sample_fps": 5,
+  "segments": [
+    [
+      0,
+      4,
+      false
+    ],
+    [
+      8,
+      13,
+      true
+    ],
+    [
+      16,
+      19,
+      true
+    ],
+    [
+      22,
+      33,
+      true
+    ],
+    [
+      37,
+      41,
+      false
+    ]
+  ],
+  "label_note": "Presence labels from visual review. Transition gaps excluded before prediction.",
+  "frames": [
+    {
+      "index": 0,
+      "source_frame": 0,
+      "source_seconds": 0.0,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 1,
+      "source_frame": 13,
+      "source_seconds": 0.216522,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 2,
+      "source_frame": 25,
+      "source_seconds": 0.416389,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 3,
+      "source_frame": 37,
+      "source_seconds": 0.616256,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 4,
+      "source_frame": 49,
+      "source_seconds": 0.816122,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 5,
+      "source_frame": 61,
+      "source_seconds": 1.015989,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 6,
+      "source_frame": 73,
+      "source_seconds": 1.215856,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 7,
+      "source_frame": 85,
+      "source_seconds": 1.415722,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 8,
+      "source_frame": 97,
+      "source_seconds": 1.615589,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 9,
+      "source_frame": 109,
+      "source_seconds": 1.815456,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 10,
+      "source_frame": 121,
+      "source_seconds": 2.015322,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 11,
+      "source_frame": 133,
+      "source_seconds": 2.215089,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 12,
+      "source_frame": 145,
+      "source_seconds": 2.414956,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 13,
+      "source_frame": 157,
+      "source_seconds": 2.614822,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 14,
+      "source_frame": 169,
+      "source_seconds": 2.814689,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 15,
+      "source_frame": 181,
+      "source_seconds": 3.014556,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 16,
+      "source_frame": 193,
+      "source_seconds": 3.214422,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 17,
+      "source_frame": 205,
+      "source_seconds": 3.414289,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 18,
+      "source_frame": 217,
+      "source_seconds": 3.614156,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 19,
+      "source_frame": 229,
+      "source_seconds": 3.814022,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 20,
+      "source_frame": 481,
+      "source_seconds": 8.010989,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 21,
+      "source_frame": 493,
+      "source_seconds": 8.210856,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 22,
+      "source_frame": 505,
+      "source_seconds": 8.410722,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 23,
+      "source_frame": 517,
+      "source_seconds": 8.610589,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 24,
+      "source_frame": 529,
+      "source_seconds": 8.810456,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 25,
+      "source_frame": 541,
+      "source_seconds": 9.010322,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 26,
+      "source_frame": 553,
+      "source_seconds": 9.210089,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 27,
+      "source_frame": 565,
+      "source_seconds": 9.409956,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 28,
+      "source_frame": 577,
+      "source_seconds": 9.609822,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 29,
+      "source_frame": 589,
+      "source_seconds": 9.809689,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 30,
+      "source_frame": 601,
+      "source_seconds": 10.009556,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 31,
+      "source_frame": 613,
+      "source_seconds": 10.209422,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 32,
+      "source_frame": 625,
+      "source_seconds": 10.409289,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 33,
+      "source_frame": 637,
+      "source_seconds": 10.609156,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 34,
+      "source_frame": 649,
+      "source_seconds": 10.809022,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 35,
+      "source_frame": 661,
+      "source_seconds": 11.008889,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 36,
+      "source_frame": 673,
+      "source_seconds": 11.208756,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 37,
+      "source_frame": 685,
+      "source_seconds": 11.408522,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 38,
+      "source_frame": 697,
+      "source_seconds": 11.608389,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 39,
+      "source_frame": 709,
+      "source_seconds": 11.808256,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 40,
+      "source_frame": 721,
+      "source_seconds": 12.008122,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 41,
+      "source_frame": 733,
+      "source_seconds": 12.207989,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 42,
+      "source_frame": 745,
+      "source_seconds": 12.407856,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 43,
+      "source_frame": 757,
+      "source_seconds": 12.607722,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 44,
+      "source_frame": 769,
+      "source_seconds": 12.807589,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 45,
+      "source_frame": 960,
+      "source_seconds": 16.005267,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 46,
+      "source_frame": 972,
+      "source_seconds": 16.205133,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 47,
+      "source_frame": 984,
+      "source_seconds": 16.405,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 48,
+      "source_frame": 996,
+      "source_seconds": 16.604867,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 49,
+      "source_frame": 1008,
+      "source_seconds": 16.804733,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 50,
+      "source_frame": 1020,
+      "source_seconds": 17.0046,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 51,
+      "source_frame": 1032,
+      "source_seconds": 17.204467,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 52,
+      "source_frame": 1044,
+      "source_seconds": 17.404333,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 53,
+      "source_frame": 1056,
+      "source_seconds": 17.6042,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 54,
+      "source_frame": 1068,
+      "source_seconds": 17.804067,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 55,
+      "source_frame": 1080,
+      "source_seconds": 18.003822,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 56,
+      "source_frame": 1092,
+      "source_seconds": 18.2036,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 57,
+      "source_frame": 1104,
+      "source_seconds": 18.403544,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 58,
+      "source_frame": 1116,
+      "source_seconds": 18.603411,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 59,
+      "source_frame": 1128,
+      "source_seconds": 18.803278,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 60,
+      "source_frame": 1320,
+      "source_seconds": 22.001044,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 61,
+      "source_frame": 1332,
+      "source_seconds": 22.200911,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 62,
+      "source_frame": 1344,
+      "source_seconds": 22.400778,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 63,
+      "source_frame": 1356,
+      "source_seconds": 22.600622,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 64,
+      "source_frame": 1368,
+      "source_seconds": 22.800389,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 65,
+      "source_frame": 1380,
+      "source_seconds": 23.000244,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 66,
+      "source_frame": 1392,
+      "source_seconds": 23.200111,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 67,
+      "source_frame": 1405,
+      "source_seconds": 23.416633,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 68,
+      "source_frame": 1417,
+      "source_seconds": 23.6165,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 69,
+      "source_frame": 1429,
+      "source_seconds": 23.816367,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 70,
+      "source_frame": 1441,
+      "source_seconds": 24.016233,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 71,
+      "source_frame": 1452,
+      "source_seconds": 24.216056,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 72,
+      "source_frame": 1464,
+      "source_seconds": 24.432567,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 73,
+      "source_frame": 1474,
+      "source_seconds": 24.615756,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 74,
+      "source_frame": 1486,
+      "source_seconds": 24.815622,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 75,
+      "source_frame": 1498,
+      "source_seconds": 25.015489,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 76,
+      "source_frame": 1510,
+      "source_seconds": 25.215356,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 77,
+      "source_frame": 1522,
+      "source_seconds": 25.415222,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 78,
+      "source_frame": 1534,
+      "source_seconds": 25.615089,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 79,
+      "source_frame": 1546,
+      "source_seconds": 25.814956,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 80,
+      "source_frame": 1558,
+      "source_seconds": 26.014822,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 81,
+      "source_frame": 1570,
+      "source_seconds": 26.214689,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 82,
+      "source_frame": 1582,
+      "source_seconds": 26.414556,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 83,
+      "source_frame": 1594,
+      "source_seconds": 26.6144,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 84,
+      "source_frame": 1606,
+      "source_seconds": 26.814167,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 85,
+      "source_frame": 1618,
+      "source_seconds": 27.014022,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 86,
+      "source_frame": 1630,
+      "source_seconds": 27.213889,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 87,
+      "source_frame": 1642,
+      "source_seconds": 27.413756,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 88,
+      "source_frame": 1654,
+      "source_seconds": 27.613622,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 89,
+      "source_frame": 1666,
+      "source_seconds": 27.813489,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 90,
+      "source_frame": 1678,
+      "source_seconds": 28.013356,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 91,
+      "source_frame": 1690,
+      "source_seconds": 28.213222,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 92,
+      "source_frame": 1702,
+      "source_seconds": 28.413089,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 93,
+      "source_frame": 1714,
+      "source_seconds": 28.612956,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 94,
+      "source_frame": 1726,
+      "source_seconds": 28.812822,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 95,
+      "source_frame": 1737,
+      "source_seconds": 29.012611,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 96,
+      "source_frame": 1748,
+      "source_seconds": 29.212456,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 97,
+      "source_frame": 1760,
+      "source_seconds": 29.412322,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 98,
+      "source_frame": 1772,
+      "source_seconds": 29.612189,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 99,
+      "source_frame": 1784,
+      "source_seconds": 29.812056,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 100,
+      "source_frame": 1796,
+      "source_seconds": 30.011922,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 101,
+      "source_frame": 1808,
+      "source_seconds": 30.211789,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 102,
+      "source_frame": 1820,
+      "source_seconds": 30.411656,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 103,
+      "source_frame": 1832,
+      "source_seconds": 30.611522,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 104,
+      "source_frame": 1844,
+      "source_seconds": 30.811389,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 105,
+      "source_frame": 1856,
+      "source_seconds": 31.011256,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 106,
+      "source_frame": 1868,
+      "source_seconds": 31.211122,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 107,
+      "source_frame": 1880,
+      "source_seconds": 31.410889,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 108,
+      "source_frame": 1892,
+      "source_seconds": 31.610756,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 109,
+      "source_frame": 1904,
+      "source_seconds": 31.810622,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 110,
+      "source_frame": 1916,
+      "source_seconds": 32.010489,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 111,
+      "source_frame": 1928,
+      "source_seconds": 32.210356,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 112,
+      "source_frame": 1940,
+      "source_seconds": 32.410222,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 113,
+      "source_frame": 1952,
+      "source_seconds": 32.610089,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 114,
+      "source_frame": 1964,
+      "source_seconds": 32.809956,
+      "present": true,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 115,
+      "source_frame": 2216,
+      "source_seconds": 37.006933,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 116,
+      "source_frame": 2228,
+      "source_seconds": 37.2068,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 117,
+      "source_frame": 2240,
+      "source_seconds": 37.406667,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 118,
+      "source_frame": 2252,
+      "source_seconds": 37.606533,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 119,
+      "source_frame": 2264,
+      "source_seconds": 37.8064,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 120,
+      "source_frame": 2276,
+      "source_seconds": 38.006267,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 121,
+      "source_frame": 2288,
+      "source_seconds": 38.206133,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 122,
+      "source_frame": 2300,
+      "source_seconds": 38.406,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 123,
+      "source_frame": 2312,
+      "source_seconds": 38.605767,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 124,
+      "source_frame": 2324,
+      "source_seconds": 38.805622,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 125,
+      "source_frame": 2336,
+      "source_seconds": 39.005378,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 126,
+      "source_frame": 2348,
+      "source_seconds": 39.205333,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 127,
+      "source_frame": 2360,
+      "source_seconds": 39.4052,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 128,
+      "source_frame": 2372,
+      "source_seconds": 39.605067,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 129,
+      "source_frame": 2384,
+      "source_seconds": 39.804933,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 130,
+      "source_frame": 2396,
+      "source_seconds": 40.0048,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 131,
+      "source_frame": 2408,
+      "source_seconds": 40.204667,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 132,
+      "source_frame": 2420,
+      "source_seconds": 40.404533,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 133,
+      "source_frame": 2432,
+      "source_seconds": 40.6044,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    },
+    {
+      "index": 134,
+      "source_frame": 2444,
+      "source_seconds": 40.804267,
+      "present": false,
+      "condition": "Cluttered surface, normal light"
+    }
+  ]
+}
